@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/d3XwZOp.png" alt="Wireless Access Point Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Configuring Wireless Access Point</h1>
+This tutorial outlines how to configure basic wired and wireless connectivity using Cisco networking devices.<br />
 
 
 <h2>Video Demonstration</h2>
