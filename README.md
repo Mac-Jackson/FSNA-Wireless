@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://i.imgur.com/d3XwZOp.png" alt="Wireless Access Point Logo"/>
+<img src="https://github.com/user-attachments/assets/928b3867-4afa-41d6-8b85-74fbd1c773a7" alt="Wireless Access Point Logo"/>
 </p>
 
 <h1>Configuring a Wireless Access Point</h1>
-This tutorial outlines how to configure basic wired and wireless connectivity using Cisco networking devices.<br />
+This tutorial outlines configuring basic wired and wireless connectivity using Cisco networking devices.<br />
+
 
 
 <h2>Networking Technologies Used</h2>
