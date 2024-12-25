@@ -33,16 +33,18 @@ This tutorial outlines configuring basic wired and wireless connectivity using C
 - Step 4  Add a Wireless tablet as a host on the new wireless network
 <h2>Deployment and Configuration Steps</h2>
 
+
 <p>
-<img src="https://i.imgur.com/H9G9ZRA.png" height="80%" width="80%" alt="FSNA-Wireless"/>
+<img src="https://github.com/user-attachments/assets/e3b4f044-6988-4bff-943d-c64bc9448e63" height="80%" width="80%" alt="FSNA-Wireless"/>
 </p>
 <p>
 Configure a description on FSNA-SW1 Fa0/23
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/bh8sMGd.png" height="80%" width="80%" alt="FSNA-Wireless"/>
+<img src="https://github.com/user-attachments/assets/a0dbda86-a2d3-4afb-854f-2664dee46fa7" height="80%" width="80%" alt="FSNA-Wireless"/>
 </p>
 <p>
 Connect FSNA-WAP to FSNA-SW1
@@ -50,7 +52,7 @@ Connect FSNA-WAP to FSNA-SW1
 <br />
 
 <p>
-<img src="https://i.imgur.com/rssaHUr.png" height="80%" width="80%" alt="FSNA-Wireless"/>
+<img src="https://github.com/user-attachments/assets/f2d09125-f03e-4a7d-b259-0aa00c4f25cb" height="80%" width="80%" alt="FSNA-Wireless"/>
 </p>
 <p>
 Configure Wireless SSID & WPA2-PSK
@@ -58,7 +60,7 @@ Configure Wireless SSID & WPA2-PSK
 <br />
 
 <p>
-<img src="https://i.imgur.com/I9TNM6Y.png" height="80%" width="80%" alt="FSNA-Wireless"/>
+<img src="https://github.com/user-attachments/assets/dc443277-6042-4dd2-a7a4-6054bb42d8fe" height="80%" width="80%" alt="FSNA-Wireless"/>
 </p>
 <p>
 Configure Wireless SSID & WPA2-PSK
@@ -66,11 +68,13 @@ Configure Wireless SSID & WPA2-PSK
 <br />
 
 <p>
-<img src="https://i.imgur.com/CjyjBFJ.png" height="80%" width="80%" alt="FSNA-Wireless"/>
+<img src="https://github.com/user-attachments/assets/4b765c8f-54cf-49a9-b011-211318b962d0" height="80%" width="80%" alt="FSNA-Wireless"/>
 </p>
 <p>
 Test & Verify Wireless Access
 </p>
 <br />
+
+
 
 
